@@ -1,0 +1,4 @@
+body.hide-ui #combat-popout,
+body.hide-ui #ui-right{
+    display: none !important;
+}
